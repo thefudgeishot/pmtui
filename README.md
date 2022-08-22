@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/thefudgeishot/tmtui">
+  <a href="https://github.com/thefudgeishot/pmtui">
     <img src="images/logo.png" alt="Logo" width="400" height="150">
   </a>
 
@@ -32,9 +32,9 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/thefudgeishot/tmtui/issues">Report Bug</a>
+    <a href="https://github.com/thefudgeishot/pmtui/issues">Report Bug</a>
     ·
-    <a href="https://github.com/thefudgeishot/tmtui/issues">Request Feature</a>
+    <a href="https://github.com/thefudgeishot/pmtui/issues">Request Feature</a>
   </p>
 </div>
 
@@ -64,7 +64,7 @@ All preqreuisites are required to ensure the project works the way it is expecte
 1. Ensure your in your home directory.
 2. Clone the repo
    ```sh
-   git clone https://github.com/thefudgeishot/tmtui.git
+   git clone https://github.com/thefudgeishot/pmtui.git
    ```
 3. Move shell file to home directory
    ```sh
