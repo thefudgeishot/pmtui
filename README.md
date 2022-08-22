@@ -40,8 +40,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## The Project
-<img src="images/example.png" alt="example" width="600" height="230">
-
+<div align="center">
+<img src="images/example.png" alt="example" width="600" height="300">
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
